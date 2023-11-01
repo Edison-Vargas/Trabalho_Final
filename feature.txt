@@ -1,5 +1,0 @@
-Trabalho Final - Édison Vargas Teixeira
-
-"Nova Alteração no arquivo feature.txt na branch feature - execução do exercício nº 11"
-
-Aula GIT
